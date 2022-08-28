@@ -398,4 +398,4 @@ if __name__ == '__main__':
     for extension in initial_extensions:
         client.load_extension(extension)    
 
-client.run("ODg0NDAyMzgzOTIzMzM5Mjk1.YTX95w.JWyLoJ9KjFJIDBN8XdVDQWqAGv8")    
+client.run("MTAxMzM3MTM4NTU3NTM3NDg4OA.G3vlfI.dqgqGBnp3BqeUXlszjzTdnmml1fBmQnnAGi7Cc")    
